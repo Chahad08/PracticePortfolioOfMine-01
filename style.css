@@ -1,0 +1,106 @@
+header pre{
+    text-align: right;
+    margin-right: 5%;
+    padding-right: 5%;
+    font-style:inherit;
+    color: black;
+}
+body{
+    margin: 0%;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.orange{
+    color:tomato;  
+}
+.half-width img{
+    width: 100%;
+}
+.hire-me-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon,tomato);
+    
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+
+.first-section-gap{
+    height: 500px;
+}
+.bold-class{
+    width: 100px;
+    font-size: 60px;
+    padding: 0;
+    margin: 0;
+}
+.top-div{
+    padding-top: 18%;
+}
+.button-box{
+    padding: 20px 0px;
+}
+section{
+    height: 700px;
+}
+.third-section-center{
+    text-align: center;
+    padding: 50px 20px;
+    margin-top: 20%;
+}
+.box{
+    box-shadow: 10px 10p ;
+    border-radius: 10px;
+    
+    background-color: rgb(248, 247, 247);
+}
+#id{
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg, lightSalmon,orange); 
+    border-image-slice: 1; 
+}
+
+.column {
+    float: left;
+    width: 30%;
+    /* padding: 5px; */
+    border: 10px solid ;
+    /* border-image: linear-gradient(180deg, lightSalmon,orange); */
+    border-color: white; 
+    border-image-slice: 1; 
+  }
+
+.row{
+    padding: 20px 0px;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.padding{
+ margin: 2px;
+ border-radius: 5%;
+}
+/* .last-coloum{
+    width: 100%;
+    
+    margin-top: 5% ;
+    margin-left: 15%;
+    margin-right: 15%;
+} */
+.text{
+    color: white;
+}
+footer p{
+    text-align: center;
+}
+footer h2{
+    text-align: center;
+}
+
